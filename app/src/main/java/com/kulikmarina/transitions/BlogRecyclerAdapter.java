@@ -95,7 +95,7 @@ public class BlogRecyclerAdapter extends RecyclerView.Adapter<BlogRecyclerAdapte
                     viewHolder.updateLikeCount(count);
 
                 } else {
-//supercode
+
                     viewHolder.updateLikeCount(0);
 
                 }
