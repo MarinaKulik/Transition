@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private Toolbar maintoolbar;
     private FloatingActionButton addPostBtn;
     private BottomNavigationView mainBotNav;
+    //private var
 
     private HomeFragment mHomeFragment;
     private AccountFragment mAccountFragment;
