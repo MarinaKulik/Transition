@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "140614905015",
+    "firebase_url": "https://transitions-4846c.firebaseio.com",
+    "project_id": "transitions-4846c",
+    "storage_bucket": "transitions-4846c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140614905015:android:1bdb0908f3bbdf60",
+        "android_client_info": {
+          "package_name": "com.kulikmarina.transitions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140614905015-liatghqv12un80r7jadd6f72rn484vhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kulikmarina.transitions",
+            "certificate_hash": "348aef1f994933630f8ca03e91ed0a5f3cae0a58"
+          }
+        },
+        {
+          "client_id": "140614905015-gfeb1j862r9ridjlieabohjrs93ej8b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADwSo9FxJ_BsxFE-zOBGL9DDOIU-lhIGk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140614905015-gfeb1j862r9ridjlieabohjrs93ej8b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
