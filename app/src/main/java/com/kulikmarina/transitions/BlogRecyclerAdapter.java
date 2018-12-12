@@ -76,7 +76,7 @@ public class BlogRecyclerAdapter extends RecyclerView.Adapter<BlogRecyclerAdapte
                     viewHolder.setUserData(userName, userImage);
 
                 } else {
-                    //error
+
                 }
 
             }
