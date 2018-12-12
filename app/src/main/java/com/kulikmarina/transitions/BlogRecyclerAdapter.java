@@ -78,8 +78,6 @@ public class BlogRecyclerAdapter extends RecyclerView.Adapter<BlogRecyclerAdapte
                 } else {
 
 
-                    }
-
                 }
 
             }
